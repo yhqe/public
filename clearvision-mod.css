@@ -1119,7 +1119,7 @@ body,button,input,select,textarea,::placeholder{
     transition:all .5s ease-in-out
 }
 .theme-dark .container-YkUktl:before{
-    content:"ClearVision";
+    content:"Binge Bot";
     right:50%;
     text-align:right;
     transform:translateX(50%)
